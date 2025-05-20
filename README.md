@@ -29,3 +29,16 @@ Dalam kasus pemberian diskon pada sistem e-commerce, percabangan digunakan untuk
 Secara logika:
 Jika total belanja > 500.000, total bayar = total belanja - (diskon 10% dari total belanja)
 Jika tidak, total bayar = total belanja
+
+# 4. Peran Tipe Data dan Operator
+1. Tipe Data: Tipe data digunakan untuk menentukan jenis nilai yang akan disimpan dalam variabel. Dalam konteks ini, kita akan menggunakan:
+
+'float' untuk menyimpan nilai mata pelajaran, karena nilai dapat berupa angka desimal.
+
+'str' untuk menyimpan status kelulusan (lulus atau tidak lulus) yang akan ditampilkan sebagai teks.
+
+2. Operator:
+   
+Operator aritmatika (+, /) digunakan untuk melakukan perhitungan, seperti menjumlahkan nilai dan menghitung rata-rata.
+
+Operator perbandingan (>=) digunakan untuk membandingkan rata-rata nilai dengan batas kelulusan (75) untuk menentukan status kelulusan siswa.
